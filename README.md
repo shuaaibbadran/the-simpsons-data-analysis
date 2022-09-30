@@ -12,6 +12,10 @@ We analyzed the ratings for each episode of the series based on IMDB's database,
 We have the Data of 728 episodes, contain the name and description and of course the rate for each of them.
 
 ### First chart
+We will do the simplest form of analysis and draw ratings for each of the episodes, From the diagram, we will notice two points
+- There are a number of episodes in each season that are clearly above or below average rating.
+- There is a slight decline in episode ratings compared to the initial episodes.
+![Episodes [1–728] Rate from 10](https://cdn-images-1.medium.com/max/800/1*S0YWpnSd1qm6OLVFyXzXYw.png)
 
 ### Season AVG rate
 ### Low/High Points
