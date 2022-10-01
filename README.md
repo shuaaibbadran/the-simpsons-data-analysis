@@ -15,9 +15,16 @@ We have the Data of 728 episodes, contain the name and description and of course
 We will do the simplest form of analysis and draw ratings for each of the episodes, From the diagram, we will notice two points
 - There are a number of episodes in each season that are clearly above or below average rating.
 - There is a slight decline in episode ratings compared to the initial episodes.
+
 ![Episodes [1–728] Rate from 10](https://cdn-images-1.medium.com/max/800/1*S0YWpnSd1qm6OLVFyXzXYw.png)
 
 ### Season AVG rate
+Let's do something more useful and calculate the average ratings for each season individually.
+
+The show **started with a rating of 7.7** and gradually increased until **Season 7, where it achieved its highest rating of 8.4**, After that, the gradual decline began to reach **season 16 (17 previous season), where the last time the show achieved a 7 rating!!**
+
+![ِAVG Rating for each seasons](https://cdn-images-1.medium.com/max/800/1*6vIKYxX4Rlimq5zHSOpNmg.png)
+
 ### Low/High Points
 ### Low and High through the seasons
 ### Rate by Character
