@@ -26,6 +26,16 @@ The show **started with a rating of 7.7** and gradually increased until **Season
 ![ِAVG Rating for each seasons](https://cdn-images-1.medium.com/max/800/1*6vIKYxX4Rlimq5zHSOpNmg.png)
 
 ### Low/High Points
+The worst moments of the series during his long life were in 2012, season 23 episode 22, **Lisa Goes Gaga** The episode revolves around Lisa’s attempt to get popular and Lady Gaga as a guest, although the episode failed to get more than 4 points reviews.
+
+Other low rated episodes S33E1 The Star of the Backstage 4.3 rating and S30E18 Bart vs. Itchy & Scratchy 4.9 rating, with more than 700 episodes, getting only three weak ratings is a real achievement.
+
+And now for the high points​, **12 episodes** managed to get a **rating of 9 and above**, Highest Rated Episodes from Season 8 Episode 23 **Homer’s Enemy** With a rating of 9.3 and one angry Frank Grimes.
+
+Other episode with the 9+ rating are S6E6 **Tree house of Horror V**, S8E2 **You Only Move Twice** S4E12 **Marge vs. the Monorail**, S5E2 **Cape Feare**, S6E25 **Who Shot Mr. Burns? Part One**.
+
+There is clearly a recurring pattern here and that's what we'll explore in the next diagram​.
+
 ### Low and High through the seasons
 ### Rate by Character
 ### NEXT
