@@ -37,6 +37,12 @@ Other episode with the 9+ rating are S6E6 **Tree house of Horror V**, S8E2 **You
 There is clearly a recurring pattern here and that's what we'll explore in the next diagram​.
 
 ### Low and High through the seasons
+We decided to explore more about the distribution of high and low ratings across seasons, We counted the episodes within each season with ratings in the high range and ratings in the low range, and that the chart we get.
+
+![Count of episodes with low/high rating](https://miro.medium.com/max/720/1*BheAHWAtvEGS7p7mJC5_SA.png)
+
+And YES all the high rating episodes come in first seasons and the low one all in the last seasons.
+
 ### Rate by Character
 ### NEXT
 What your favorite episode of the show and what you want to see next?
