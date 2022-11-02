@@ -66,4 +66,4 @@ your drinking best friends **Barney**​ 🍻, goofy **Ralph**​ 🤪 and **MS.
 What your favorite episode of the show and what you want to see next?
 
 ## Contact me
- 
+[LinkedIn](https://www.linkedin.com/in/shuaaibbadran/) 
